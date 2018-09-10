@@ -381,6 +381,8 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
 以下のとおり変更してみましょう。
 
 + ナビゲーションバーのカラーを変更してみましょう。
+  + 参考： https://materializecss.com/color.html
 + 2カラム（列）のセクションを作成してみましょう。
+  + 参考： https://materializecss.com/grid.html
 + サンプルのFeature1、Feature2、Feature3のマテリアルアイコンを変更してみましょう。
   + 参考： https://materializecss.com/icons.html
