@@ -31,6 +31,10 @@ http://materializecss.com/
 
 ![](entry.png)
 
+#### concept.jpg
+
+![](concept.jpg)
+
 ---
 
 ### index.html
@@ -81,7 +85,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
 
 ---
 
-### mate01.html
+### Step 1
 
 ナビゲーションを作成します。既存のindex.htmlファイルにコードをコピペして追記してください。
 
@@ -105,7 +109,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
 ---
 
 
-### mate02.html
+### Step 2
 
 メインコンテンツを作成します。
 
@@ -129,7 +133,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
 
 ---
 
-### mate03.html
+### Step 3
 
 メッセージを記述します。
 
@@ -158,7 +162,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
 
 ---
 
-### mate04.html
+### Step 4
 
 3つの特徴をまとめます。
 
@@ -203,7 +207,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
 
 ---
 
-### mate05.html
+### Step 5
 
 募集要項を作ります。
 
@@ -268,7 +272,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
 
 ---
 
-### mate05.html
+### Step 6
 
 申し込みフォームを作ります。
 
@@ -305,7 +309,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
 
 ---
 
-### mate06.html
+### Step 7
 
 フッターを作ります。
 
