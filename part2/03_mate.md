@@ -18,18 +18,18 @@ http://materializecss.com/
 
 ### 素材の準備
 
-以下の2つの画像ファイルをダウンロードしておいてください
+以下の3つの画像ファイルをダウンロードしておいてください
 
-> top.jpg、entry.png は itcaret/images フォルダに配置します。
+> top.jpg、display.png concept.jpg は itcaret/images フォルダに配置します。
 
 #### top.jpg
 
 ![](top.jpg?)
 
 
-#### entry.png
+#### display.png
 
-![](entry.png?)
+![](display.png?)
 
 #### concept.jpg
 
@@ -283,7 +283,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
     <div class="row">
       <div class="col s12 m6 l6 center">
         <div class="section">
-          <img src="images/entry.png" class="responsive-img" />
+          <img src="images/display.png" class="responsive-img" />
         </div>
       </div>
       <div class="col s12 m6 l6 center">
@@ -487,7 +487,7 @@ Materializeを使うための雛形を準備します。ファイル名はindex.
         <div class="row">
           <div class="col s12 m6 l6 center">
             <div class="section">
-              <img src="images/entry.png" class="responsive-img" />
+              <img src="images/display.png" class="responsive-img" />
             </div>
           </div>
           <div class="col s12 m6 l6 center">
