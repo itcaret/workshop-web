@@ -24,12 +24,12 @@ http://materializecss.com/
 
 #### top.jpg
 
-![](top.jpg)
+![](top.jpg?)
 
 
 #### entry.png
 
-![](entry.png)
+![](entry.png?)
 
 #### concept.jpg
 
